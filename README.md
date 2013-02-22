@@ -23,6 +23,7 @@ For arguments: add|remove there adds the second argument: player username
   and the permissions config files and the groups heirarchy
 
 ///////////////////////////////////////////////////////////////////////////////////
+
 Functions: 
   isRunning(): this should test for if the server is actually running (the java executable)
    and it should test to see if users are connected. If the server is running, and users
