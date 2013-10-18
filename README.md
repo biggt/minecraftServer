@@ -7,13 +7,20 @@ PURPOSE: Be able to manage a minecraft / modded minecraft server by adding and r
   players based on the commands given, and to be able to manage the server from starting
   and stopping, to saving and giving the "top" command.
   
-USAGE: 
+USAGE: minecraftServer.sh [command]
+
   Start
+
   Stop
+
   Update
+
   Save
+
   Add [username] [group]
+
   Remove [username]
+
   Top
 
 Takes in command line arguments: start|stop|update|save|add|remove|top
