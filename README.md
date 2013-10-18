@@ -8,20 +8,14 @@ PURPOSE: Be able to manage a minecraft / modded minecraft server by adding and r
   and stopping, to saving and giving the "top" command.
   
 USAGE: minecraftServer.sh [command]
-
-  Start
-
-  Stop
-
-  Update
-
-  Save
-
-  Add [username] [group]
-
-  Remove [username]
-
-  Top
+Commands: 
+    Start
+    Stop
+    Update
+    Save
+    Add [username] [group]
+    Remove [username]
+    Top
 
 Takes in command line arguments: start|stop|update|save|add|remove|top
 
